@@ -142,17 +142,27 @@ hr {
 }
 
 .about p{
-	font-weight:500;
-	font-size:21px;
-	letter-spacing:0.1px;
+	font-size:19px;
 	line-height:1.5;
-
+	color:#eee;
+	padding:40px;
+	background:black;
+	position:relative;
 }
 
+.about p:before{
+	position:absolute;
+	top:10px;
+	left:13px;
+	width:98%;
+	height:96%;
+	border:3px solid #FFD700;
+	content:'';
+}
 .about p .tobold{
 	font-weight:700;
 	font-size:21px;
-
+	color:#FFC72C;
 }
 
 
