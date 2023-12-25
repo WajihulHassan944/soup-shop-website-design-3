@@ -8,7 +8,7 @@
 }
 
 body{
-	background:#f7c74a;
+	background:#FFC72C;
 	width:100%;
  }
 nav{
@@ -26,8 +26,8 @@ nav{
 }
 .myHeader h1{
 	font-weight:800;
-	letter-spacing:15px;
-	font-size:80px;
+	letter-spacing:12px;
+	font-size:50px;
 }
 
 
@@ -40,7 +40,7 @@ nav{
 
 .nav-link{
 	font-weight:700;
-	font-size:24px;
+	font-size:20px;
 	letter-spacing:1px;
 }
 .nav-item{
@@ -52,7 +52,7 @@ nav{
 	justify-content:center;
 	align-items:center;
 	width:100%;
-	height:65vh;
+	height:67.2vh;
 }
 .portionDiv .imagewrapper{
 	flex-basis:60%;
@@ -66,7 +66,7 @@ nav{
 }
 .portionDiv .imagewrapper .imagewrap img{
 	max-width:100%;
-	box-shadow:0 10px 20px rgba(0,0,0,0.5);
+	box-shadow:0 0 20px rgba(0,0,0,0.5);
 }
 .imagewrapper .imagewrap:nth-child(2) {
   width:270px; 
